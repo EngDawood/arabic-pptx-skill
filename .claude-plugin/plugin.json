@@ -1,0 +1,6 @@
+{
+  "name": "arabic-pptx",
+  "version": "0.1.0",
+  "description": "Build and repair Arabic right-to-left PowerPoint decks: correct paragraph direction, punctuation, multi-level numbering, tables, fonts, and mirrored layouts.",
+  "keywords": ["arabic", "rtl", "powerpoint", "pptx", "عربي"]
+}
